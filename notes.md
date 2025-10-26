@@ -176,6 +176,8 @@ Here for encryption, we use public key but only for decryption private key is re
 
 * Vault : It uses HSM and it is a tamper resistant and if tampering detects, it deletes the keys from the device
 
+* It is used to manage the keys and secrets so it remove the necessity to storage the secrets and keys in configs or codes
+
 
 
 
